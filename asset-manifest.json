@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NBA-Player-Search/static/css/main.508f04b6.css",
+    "main.js": "/NBA-Player-Search/static/js/main.68b6f111.js",
+    "static/js/787.48363aff.chunk.js": "/NBA-Player-Search/static/js/787.48363aff.chunk.js",
+    "static/media/bg.jpg": "/NBA-Player-Search/static/media/bg.620ee204359a4128fe8e.jpg",
+    "index.html": "/NBA-Player-Search/index.html",
+    "main.508f04b6.css.map": "/NBA-Player-Search/static/css/main.508f04b6.css.map",
+    "main.68b6f111.js.map": "/NBA-Player-Search/static/js/main.68b6f111.js.map",
+    "787.48363aff.chunk.js.map": "/NBA-Player-Search/static/js/787.48363aff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.508f04b6.css",
+    "static/js/main.68b6f111.js"
+  ]
+}
